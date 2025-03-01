@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abraham Jeron</h1>
 <h3 align="center">I am a passionate Full Stack Developer. I make web applications to make people's lives easier.</h3>
-<img src="https://media.licdn.com/dms/image/v2/D4D16AQFZGoWIygEY5g/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1715077382621?e=1734566400&v=beta&t=mhP16wtcP5-CU-TEe2cVrTAf0pp0DGTrueI3yT1r1Jk">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abrahamjeron&label=Profile%20views&color=0e75b6&style=flat" alt="abrahamjeron" /> </p>
 
 - 💬 Ask me about **MERN stack**
