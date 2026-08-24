@@ -17,9 +17,9 @@
 
 `▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱`
 
-### *"Mankind was born on Earth. It was never meant to die here."*
+### *"Work the problem, people. Don't make things worse by guessing."*
 
-**— Cooper, _Interstellar_ (2014)**
+**— Gene Kranz, _Apollo 13_ (1995)**
 
 <sub>`> connection closed. ship safe.`</sub>
 
