@@ -17,7 +17,9 @@
 
 `▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱`
 
-<sub>*"Mankind was born on Earth. It was never meant to die here."* — Cooper, **Interstellar** (2014)</sub>
+### *"Mankind was born on Earth. It was never meant to die here."*
+
+**— Cooper, _Interstellar_ (2014)**
 
 <sub>`> connection closed. ship safe.`</sub>
 
