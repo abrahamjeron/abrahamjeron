@@ -17,7 +17,7 @@
 
 `▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱`
 
-<sub>*"All those moments will be lost in time, like tears in rain."* — Roy Batty, **Blade Runner** (1982)</sub>
+<sub>*"Mankind was born on Earth. It was never meant to die here."* — Cooper, **Interstellar** (2014)</sub>
 
 <sub>`> connection closed. ship safe.`</sub>
 
