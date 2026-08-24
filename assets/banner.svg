@@ -61,7 +61,7 @@
 
   <text x="430" y="224" fill="#C9D6FF" font-family="'JetBrains Mono','DejaVu Sans Mono',monospace"
         font-size="15" letter-spacing="2.5" text-anchor="middle">
-    FULL STACK ENGINEER <tspan fill="#00D9FF">//</tspan> BUILDING AI-POWERED WEB TOOLS
+    AI <tspan fill="#00D9FF">//</tspan> AGENTIC SYSTEMS <tspan fill="#00D9FF">//</tspan> FULL STACK ENGINEER
   </text>
 
   <rect width="860" height="280" fill="url(#scan)"/>
