@@ -11,8 +11,6 @@
 
 <br><br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=abrahamjeron&bg_color=0A0E27&color=C9D6FF&line=00D9FF&point=FF4B91&area=true&area_color=7B61FF&hide_border=true&radius=12" width="900" />
-
 <img src="https://komarev.com/ghpvc/?username=abrahamjeron&style=flat-square&label=SIGNALS+RECEIVED&color=00D9FF&labelColor=0A0E27" alt="views" />
 
 `▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱`
